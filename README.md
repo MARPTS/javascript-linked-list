@@ -252,7 +252,7 @@ LinkedList.prototype.remove = function (data) {
 ###### isEmpty 方法
 ```
 // 9. isEmpty 方法
-LinkedList.prototype.remove = function(){
+LinkedList.prototype.isEmpty = function(){
         return this.length == 0;
 }
 ```
